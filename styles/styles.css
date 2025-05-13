@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-decoration: underline;
+    text-align: center;
+
+}
+
+#logo { 
+    height: 15vh;
+    width: 10vw;
+
+}
+
+p img {
+    height:40vh ;
+    width: 20vw;
+    
+}
+
+h2 {
+    margin: auto;
+    width: 50%;
+    text-decoration: underline; color: aquamarine;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200%;
+}
+
+.texto {
+    margin: auto;
+    width: 50%;;
+    padding: 10px;
+    font-size: 200%;
+    background-color: rgba(0, 255, 255, 0.315);
+}
+
+
+form {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: x-large;
+}
+
+.redes {
+    width: 4vh;
+    height: 2vw;
+
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%; 
+    color: white;
+    text-align: center;
+}
+
+section {
+    margin: 5%;
+}
+
+li a{
+    text-decoration: none;
+    color: aquamarine;
+    font-size: 200%;
+}
+
+
+
+video{
+    width:60vh;
+    height: 40vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+body{
+    background-color: blueviolet;
+}
+
+button {
+    background-color: brown;
+    
+}
